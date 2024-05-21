@@ -5,4 +5,6 @@ Languages used- Arduino
 
 Physical model- 
  
+<img src="https://github.com/srikar-5418/Automated-chessboard/blob/main/20231124_115824.jpg"></img>
+<img src="https://github.com/srikar-5418/Automated-chessboard/blob/main/20230901_151544.jpg"></img>
 
